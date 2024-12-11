@@ -6,3 +6,4 @@ dist-newstyle/
 *.scad
 *.gcode
 *.bgcode
+*.cabal
