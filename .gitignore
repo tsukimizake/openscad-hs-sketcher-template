@@ -1,0 +1,8 @@
+dist-newstyle/
+.DS_Store
+.stack-work
+*.3mf
+*.stl
+*.scad
+*.gcode
+*.bgcode
