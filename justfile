@@ -2,8 +2,7 @@ set shell := ["nu", "-c"]
 
 default:
     stack build
-    # stack run
-    /Users/tsukimizake/openscad-proj/.stack-work/install/aarch64-osx/af2f735c875ccf31d38a50cbc7eef92885da4c775f6f51a65dc1e762cc347e2d/9.8.2/bin/openscad-proj-exe
+    stack run
 
 test:
     stack test
