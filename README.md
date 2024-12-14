@@ -5,11 +5,11 @@ It requires [haskell-stack](https://docs.haskellstack.org/en/stable/), and utili
 
 # How to use
 
+It might work.
 ```
 git clone https://github.com/tsukimizake/openscad-hs-sketcher-template
 stack build
 ```
-Might work. 
 
 If it errors like this,
 ```
@@ -18,4 +18,4 @@ Error: [S-636]
        /Users/tsukimizake/openscad-hs-sketcher-template/openscad-hs-sketcher/ but no Cabal file or package.yaml could be found there.
 ```
 
-Try `git submodule update --init` .
+Retry after `git submodule update --init` .
