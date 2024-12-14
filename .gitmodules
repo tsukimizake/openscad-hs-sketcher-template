@@ -1,0 +1,3 @@
+[submodule "openscad-hs-sketcher"]
+       path = openscad-hs-sketcher
+       url = https://github.com/tsukimizake/openscad-hs-sketcher.git
