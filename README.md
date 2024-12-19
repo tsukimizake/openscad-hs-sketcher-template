@@ -18,4 +18,4 @@ Error: [S-636]
        /Users/tsukimizake/openscad-hs-sketcher-template/openscad-hs-sketcher/ but no Cabal file or package.yaml could be found there.
 ```
 
-Retry after `git submodule update --init` .
+Retry `stack build` after `git submodule update --init` .
