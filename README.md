@@ -5,7 +5,7 @@ It requires [haskell-stack](https://docs.haskellstack.org/en/stable/), and utili
 
 # How to use
 
-It might work.
+This command might work.
 ```
 git clone https://github.com/tsukimizake/openscad-hs-sketcher-template
 stack build
